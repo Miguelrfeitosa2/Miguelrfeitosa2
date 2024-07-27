@@ -5,4 +5,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguel-feitosa-b50b052b0)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miguelrfeitosa2&theme=yellow-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
 
