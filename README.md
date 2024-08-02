@@ -6,7 +6,7 @@
 
 ![Miguel Feitosa GitHub status](https://github-readme-stats.vercel.app/api?username=Miguelrfeitosa2&hide=contribs,prs)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelrfeitosa2&layout=compact)
 
-# -----------------------------------------------------------------------
+# ----------------------------------------------------------------------------
 
 
 
